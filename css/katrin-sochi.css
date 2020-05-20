@@ -2245,6 +2245,7 @@ body {
   display: flex;
   height: 66vh;
   margin-top: 54px;
+  margin-bottom: 20px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
